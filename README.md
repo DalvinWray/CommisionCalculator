@@ -1,5 +1,6 @@
 # CommisionCalculator
 THE PROBLEM
+
 JamEx Limited requires a program to calculate and print the commission received by a
 salesperson. The program should process an undetermined number of salespersons and 
 appropriately terminate by a predefined input. The commission rate is based on two factors, 
